@@ -12,14 +12,8 @@ pydantic
 
 faiss-cpu
 
-
-sentence-transformers
-transformers
-torch
-
 langchain
 langchain-community
-langchain-huggingface
 langchain-text-splitters
 
 python-dotenv
@@ -29,4 +23,4 @@ httpx
 
 python-multipart
 
-pydf
+pypdf
